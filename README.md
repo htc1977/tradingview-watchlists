@@ -1,1 +1,1 @@
-# tradingview-watchlists
+# Tradingview watchlists for Bitfinex pairs
