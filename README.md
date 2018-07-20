@@ -8,6 +8,7 @@
 ## for Bitfinex
 
 - BTC
+- EOS
 - ETH
 - EUR
 - GBP
